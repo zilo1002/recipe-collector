@@ -4,7 +4,7 @@ import { defineConfig } from "vite"
 import sourceIdentifierPlugin from 'vite-plugin-source-identifier'
 
 export default defineConfig({
-  base: '/',
+  base:'/recipe-collector/',
   plugins: [
     react(),
     sourceIdentifierPlugin({
