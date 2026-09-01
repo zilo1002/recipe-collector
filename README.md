@@ -1,14 +1,3 @@
----
-AIGC:
-    ContentProducer: Minimax Agent AI
-    ContentPropagator: Minimax Agent AI
-    Label: AIGC
-    ProduceID: "00000000000000000000000000000000"
-    PropagateID: "00000000000000000000000000000000"
-    ReservedCode1: 3045022100f9ff4e8896a792c3e2357a48cf3f1d36b163b8f98b02b4e8159e86635d9220670220294ec6248e9dedfd9a1cbf6199427029c1accec7bb63aefc8505d83dc4c133ec
-    ReservedCode2: 304502204d73957c53dbd660c20aaf66912463b83459e5d4b70e43a9b9e851ac453b54c6022100b35d8eef927c29854c4188e75bd9ed78bb7480ef3f081b33862170627e687607
----
-
 # 食谱收藏
 
 > 轻量级菜谱管理工具，支持自动分类、卡路里计算、数据导入导出。
@@ -115,8 +104,6 @@ recipe-collector/
 - **样式方案**：Tailwind CSS
 - **状态管理**：Zustand + persist
 - **图标库**：Lucide React
-- **部署**：云端部署
-
 ---
 
 ## 7. 使用提示
@@ -126,27 +113,6 @@ recipe-collector/
 3. **食材二级分类**：上传菜谱后，系统会自动提取食材名称添加到二级分类供筛选
 4. **手风琴交互**：筛选排序区域采用手风琴展开/折叠设计，点击即可展开查看选项
 5. **浏览器缓存**：更新后如界面无变化，请尝试强制刷新（`Ctrl + Shift + R`）
-
----
-
-## 8. 快速开始
-
-```bash
-# 安装依赖
-pnpm install
-
-# 开发模式
-pnpm dev
-
-# 构建生产版本
-pnpm build
-
-# 预览生产版本
-pnpm preview
-```
-
----
-
 ## License
 
-[MIT](LICENSE) © MiniMax Agent
+[MIT](LICENSE) 
