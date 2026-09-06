@@ -114,4 +114,4 @@ recipe-collector/
 4. **手风琴交互**：筛选排序区域采用手风琴展开/折叠设计，点击即可展开查看选项
 5. **浏览器缓存**：更新后如界面无变化，请尝试强制刷新（`Ctrl + Shift + R`）
 ---
-© 2026 [zilo1002]. All rights reserved.
+© 2026 zilo1002. All rights reserved.
