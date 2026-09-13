@@ -136,7 +136,4 @@ pnpm preview
 ```
 
 ---
-
-## License
-
-[MIT](LICENSE) © 
+© 2026 zilo1002. All rights reserved.
