@@ -1,14 +1,3 @@
----
-AIGC:
-    ContentProducer: Minimax Agent AI
-    ContentPropagator: Minimax Agent AI
-    Label: AIGC
-    ProduceID: "00000000000000000000000000000000"
-    PropagateID: "00000000000000000000000000000000"
-    ReservedCode1: 3045022001efc46a04c46b3f64612c7cfbf5c072c465746683bc8c5cceea6be6cfd0bc1c022100c35086f387dd8d36b1aa9d40ec005c8088859d9abc716138822d6326aa033e0a
-    ReservedCode2: 30450221008451085dbdf7512a48ce9212f602c1e251c99deb3fbc8acd2b10b61f1adc6cf802205d05887e5789a59f0908999f820f58e93395ec8b9947cee950917dd68150be20
----
-
 # 食谱收藏
 
 > 轻量级菜谱管理工具，支持自动分类、卡路里计算、数据导入导出。
@@ -175,6 +164,4 @@ pnpm preview
 
 ---
 
-## License
-
-[MIT](LICENSE) © MiniMax Agent
+## © 2026 zilo1002. All rights reserved.
