@@ -164,4 +164,4 @@ pnpm preview
 
 ---
 
-## © 2026 zilo1002. All rights reserved.
+# © 2026 zilo1002. All rights reserved.
